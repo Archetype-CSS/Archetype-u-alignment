@@ -1,0 +1,12 @@
+{
+  "name": "Archetype-u-aligment",
+  "version": "0.1.0",
+  "author": "Sam Ashley",
+  "main": "_u-alignment.scss",
+  "ignore": [
+    ".*",
+    "CHANGELOG.md",
+    "package.json",
+    "/test"
+  ]
+}

@@ -1,0 +1,28 @@
+/*** @export "u-layout--alignment" css */
+/**
+ * Alignment
+ * 
+ */
+
+/**
+ * Center-align a block level element
+ * 
+ */
+%horizontal-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/**
+ * Vertical Align of content
+ * 
+ * http://css-tricks.com/vertically-center-multi-lined-text/
+ */
+%vertical-center {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+
